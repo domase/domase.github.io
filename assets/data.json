@@ -12,18 +12,11 @@
     "highlight": "I specialize in high-resolution (sub-arcsecond) interferometric observations of nearby embedded protostars.",
     "contact": [
       {
-        "text": "Max-Planck-Institut für extraterrestrische Physik"
-        "text": "Giessenbachstrasse 1"
-      },
-      {
-        "text": "Giessenbachstrasse 1"
-      },
-      {
-        "text": "85748 Garching"
-      },   
-      {
+        "text": "Max-Planck-Institut für extraterrestrische Physik",
+        "text": "Giessenbachstrasse 1",
+        "text": "85748 Garching",
         "text": "Germany"
-      }, 
+      },
       {
         "type": "email",
         "text": "dom@mpe.mpg.de"
