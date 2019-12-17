@@ -8,40 +8,35 @@
     "cv"
   ],
   "home": {
-    "description": "Id labore mollit cupidatat officia occaecat dolor sunt do pariatur consequat ut nisi sed in sint enim consequat amet laboris sed est consequat labore ut laborum consectetur ullamco proident consequat sed proident laboris minim irure proident sit incididunt officia amet cupidatat in dolor laboris ut velit sit commodo velit ad cupidatat aute cillum minim aute mollit deserunt sit officia officia tempor commodo excepteur dolor excepteur ea laboris fugiat esse cillum dolore sit deserunt.",
-    "highlight": "Anim nisi sed tempor culpa ullamco excepteur do ut minim exercitation dolore consectetur duis laboris.",
+    "description": "I am a postdoc working at the The Center for Astrochemical Studies of the Max Planck Institute for Extraterrestrial Physics.  I'm primarily interested in observations of the very youngest protostars.  Ultimately I seek to unite dust, kinematic, chemical, and polarization observations of embedded protostars to understand the role that young disks and their surrounding envelopes play in the first steps of planet formation.",
+    "highlight": "I specialize in high-resolution (sub-arcsecond) interferometric observations of nearby embedded protostars.",
     "contact": [
       {
-        "text": "Quis dolor"
+        "text": "Max-Planck-Institut für extraterrestrische Physik"
       },
       {
-        "type": "link",
-        "text": "Magna dolore",
-        "link": "https://www.example.com/"
+        "text": "Giessenbachstrasse 1"
       },
       {
-        "text": "Proident aute"
-      },
+        "text": "85748 Garching"
+      },   
+      {
+        "text": "Germany"
+      }, 
       {
         "type": "email",
-        "text": "lorem@ipsum.com"
+        "text": "dom@mpe.mpg.de"
       },
       {
         "type": "phone",
-        "text": "+1 234 5678 910"
+        "text": "+49 89 300003221"
       }
     ],
     "fields": [
-      "Et in ut",
-      "Ut magna fugiat",
-      "Ut deserunt",
-      "Ex dolore"
-    ],
-    "references": [
-      {"type": "link", "link": "https://example.com/john_doe_1", "text": "Duis Consequat"},
-      {"type": "link", "link": "https://example.com/john_doe_2", "text": "Lorem Ipsum"},
-      {"type": "link", "link": "https://example.com/john_doe_3", "text": "Officia Nulla"},
-      {"type": "link", "link": "https://example.com/john_doe_M", "text": "Pariatur Proident"}
+      "Star Formation",
+      "Embedded Prototstars",
+      "Disk Structures",
+      "Polarization"
     ],
     "links": [
       {
