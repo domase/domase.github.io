@@ -174,38 +174,6 @@
           }
         ]
       },
-      {
-        "title": "Reprehenderit qui cupidatat",
-        "items": [
-          {
-            "date": "20XX-20XY",
-            "text": "Pariatur reprehenderit quis in eiusmod.",
-            "fields": [
-              {
-                "text": "Irure fugiat excepteur qui."
-              },
-              {
-                "text": "Duis cillum eu consequat.",
-                "highlighted": true
-              }
-            ]
-          },
-          {
-            "date": "20XX",
-            "text": "Lorem ipsum mollit incididunt excepteur ad.",
-            "fields": [
-              {
-                "text": "In amet dolor ex."
-              },
-              {
-                "text": "Magna quis elit.",
-                "type": "link",
-                "link": "http://www.example.com/additional_text_1_link"
-              }
-            ]
-          }
-        ]
-      }
     ]
   }
 }
