@@ -5,6 +5,7 @@
   "tabs": [
     "home",
     "research",
+    "press",    
     "cv"
   ],
   "home": {
@@ -99,6 +100,24 @@
       ]
     }
   ], 
+  "research": [
+    {
+      "title": "Cillum dolore quis laborum aliqua",
+      "papers": [
+        {
+          "always_expanded": true,
+          "abstract": "Lorem ipsum sunt veniam reprehenderit est ea aliquip qui do ad elit incididunt irure aliqua quis ad cupidatat do ut laborum in ea cillum sint fugiat aliqua voluptate eiusmod reprehenderit quis ut nostrud anim nisi mollit dolor excepteur ut ullamco."
+        },
+        {
+          "always_expanded": true,
+          "abstract": "Ea esse est consectetur aliqua dolor laboris quis duis et dolore deserunt excepteur excepteur sit aute adipisicing in incididunt sed reprehenderit cillum duis.",
+          "images": [
+            "assets/images/picture_1.jpg"
+          ]
+        }
+      ]
+    }
+  ],   
   "cv": {
     "link": "http://www.example.com/cv.pdf",
     "sections": [
