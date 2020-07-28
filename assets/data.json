@@ -113,18 +113,7 @@
           "abstract": "Ea esse est consectetur aliqua dolor laboris quis duis et dolore deserunt excepteur excepteur sit aute adipisicing in incididunt sed reprehenderit cillum duis.",
           "images": [
             "assets/images/picture_1.jpg"
-          ]
-          "more_info": [
-            {
-              "text": "Officia tempor:",
-              "links": [
-                {
-                  "text": "Ex cupidatat",
-                  "link": "https://www.example.com/link_1"
-                },
-              ]
-            }
-          ],          
+          ]      
         }
       ]
     },
