@@ -164,66 +164,6 @@
     "link": "http://www.example.com/cv.pdf",
     "sections": [
       {
-        "title": "Et est esse non",
-        "two_columns": true,
-        "items": [
-          {
-            "date": "20XX-20XY",
-            "text": "Eiusmod consequat ut minim incididunt.",
-            "fields": [
-              {
-                "text": "Officia adipisicing."
-              },
-              {
-                "text": "Aute cillum."
-              }
-            ]
-          },
-          {
-            "date": "20XX",
-            "text": "Sed in cupidatat eu qui.",
-            "fields": [
-              {
-                "text": "Est cupidatat cupidatat veniam.",
-                "type": "link",
-                "link": "http://www.example.com/additional_text_1_link"
-              },
-              {
-                "text": "Officia adipisicing."
-              }
-            ]
-          },
-          {
-            "date": "20XX",
-            "text": "Dolore nisi do officia.",
-            "fields": [
-              {
-                "text": "Lorem ipsum voluptate dolor ut officia."
-              },
-              {
-                "text": "Qui aliqua cupidatat et.",
-                "type": "link",
-                "link": "http://www.example.com/additional_text_1_link"
-              }
-            ]
-          },
-          {
-            "date": "20XX",
-            "text": "Ad incididunt velit laborum ut.",
-            "fields": [
-              {
-                "text": "Qui occaecat ex."
-              },
-              {
-                "text": "Est laboris aute esse.",
-                "type": "link",
-                "link": "http://www.example.com/additional_text_1_link"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "title": "Reprehenderit qui cupidatat",
         "items": [
           {
