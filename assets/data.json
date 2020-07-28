@@ -5,6 +5,7 @@
   "tabs": [
     "home",
     "research",
+    "press",    
     "cv"
   ],
   "home": {
@@ -99,6 +100,66 @@
       ]
     }
   ],
+  "press": [
+    {
+      "title": "Cillum dolore quis laborum aliqua",
+      "papers": [
+        {
+          "always_expanded": true,
+          "abstract": "Lorem ipsum sunt veniam reprehenderit est ea aliquip qui do ad elit incididunt irure aliqua quis ad cupidatat do ut laborum in ea cillum sint fugiat aliqua voluptate eiusmod reprehenderit quis ut nostrud anim nisi mollit dolor excepteur ut ullamco."
+        },
+        {
+          "always_expanded": true,
+          "abstract": "Ea esse est consectetur aliqua dolor laboris quis duis et dolore deserunt excepteur excepteur sit aute adipisicing in incididunt sed reprehenderit cillum duis.",
+          "images": [
+            "assets/images/picture_1.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Eiusmod ullamco",
+      "sub_title": "Nisi dolore ex",
+      "papers": [
+        {
+          "title": "Deserunt veniam ut dolore cupidatat.",
+          "authors": ["Author 1", "Author 2", "Author 3", "Author 4"],
+          "abstract": "Adipisicing do eu in voluptate sed consectetur dolore dolor reprehenderit cupidatat ut dolore pariatur ut proident dolor est ad magna velit laboris sunt eu ut laboris sint dolore incididunt sint sit ut ad amet fugiat pariatur enim sint in velit sed minim occaecat adipisicing nostrud ut irure sunt aliquip incididunt incididunt adipisicing et id in excepteur ex sit labore dolore consectetur ut id nostrud reprehenderit cillum cupidatat commodo deserunt nostrud enim dolor amet eiusmod eiusmod amet tempor commodo exercitation incididunt ut aute nisi fugiat reprehenderit ad veniam elit in do eiusmod nisi exercitation elit ut aliquip deserunt non labore ut esse pariatur ullamco ad velit consequat sint esse pariatur non irure enim anim aliquip et id consectetur excepteur cupidatat deserunt velit ullamco eu ullamco deserunt ex labore cupidatat esse laborum est dolor culpa nostrud proident esse reprehenderit eu sit dolore dolor sint esse in laborum in adipisicing elit dolore labore ea nulla dolor incididunt minim consectetur veniam dolore in ut velit ex quis occaecat laboris in consectetur voluptate proident laborum proident aliqua irure ut eu ea anim anim eu et in minim sint ut cillum dolore in aute pariatur deserunt proident in et elit labore voluptate exercitation ut id occaecat non culpa culpa adipisicing exercitation incididunt occaecat aute id.",
+          "more_info": [
+            {
+              "text": "Officia tempor:",
+              "links": [
+                {
+                  "text": "Ex cupidatat",
+                  "link": "https://www.example.com/link_1"
+                },
+                {
+                  "text": "Nisi labore nulla",
+                  "link": "https://www.example.com/link_2"
+                },
+                {
+                  "text": "Est ullamco",
+                  "link": "https://www.example.com/link_3"
+                }
+              ]
+            }
+          ],
+          "images": [
+            "assets/images/picture_2.jpg"
+          ]
+        },
+        {
+          "title": "Consequat non ut nisi in tempor reprehenderit.",
+          "link": "http://www.example.com/link_example",
+          "authors": ["Author X", "et al."],
+          "abstract": "Lorem ipsum labore in dolor nulla aliquip dolor occaecat incididunt sit proident do consectetur pariatur dolor aliqua ea ullamco culpa labore duis veniam qui officia esse sunt et reprehenderit ut nostrud dolore minim fugiat pariatur consequat cillum incididunt esse pariatur incididunt esse culpa fugiat in aliqua adipisicing do labore cupidatat sit elit consectetur culpa anim in dolore do adipisicing nostrud sint enim id ea esse incididunt voluptate elit mollit pariatur velit anim officia laboris id sunt qui officia et duis amet qui id nulla eiusmod nostrud fugiat velit proident laboris sunt ad in exercitation commodo do reprehenderit cupidatat deserunt laboris ullamco quis officia esse amet consectetur sed pariatur sed veniam culpa quis sunt et in consectetur exercitation ullamco deserunt dolore excepteur ullamco aute est id quis et consequat tempor nulla voluptate in dolor magna id consectetur aliquip fugiat consectetur et excepteur in minim sunt ea fugiat et ullamco labore sed et culpa anim dolore ullamco nisi aliquip magna officia occaecat est exercitation proident in ea aliquip occaecat dolor sed pariatur nisi aliqua ad labore et in laborum quis veniam ullamco esse in laboris qui adipisicing eiusmod sunt incididunt consequat occaecat ut reprehenderit occaecat ea in excepteur consectetur nostrud fugiat minim aute elit sit pariatur officia ut non ut voluptate dolore non irure in irure in ad aliquip in consectetur cillum ex id nisi eu anim tempor excepteur non laborum reprehenderit qui occaecat nostrud adipisicing dolore eu fugiat ut sit mollit.",
+          "images": [
+            "assets/images/picture_3.jpg"
+          ]
+        }
+      ]
+    }
+  ],  
   "cv": {
     "link": "http://www.example.com/cv.pdf",
     "sections": [
