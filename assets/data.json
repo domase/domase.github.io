@@ -65,16 +65,23 @@
           "link": "https://ui.adsabs.harvard.edu/abs/2018ApJ...866..161S/abstract",
           "authors": ["D. M. Segura-Cox", "L. W. Looney", "J. J. Tobin", "Z.-Y. Li", "R. J. Harris", "S. Sadavoy", "M. M. Dunham", "C. Chandler", "K. Kratter", "L. Perez", "C. Melis"],
           "abstract": "Class 0 and I protostellar disk sizes, full survey.",
-          "images": [
-            "assets/images/picture_2.jpg"
-          ]
-        },
-        {
-          "always_expanded": true,
-          "title": "The VLA Nascent Disk and Multiplicity Survey: First Look at Resolved Candidate Disks around Class 0 and I Protostars in the Perseus Molecular Cloud",
-          "link": "https://ui.adsabs.harvard.edu/abs/2016ApJ...817L..14S/abstract",
-          "authors": ["D. M. Segura-Cox", "R. J. Harris", "J. J. Tobin", "L. W. Looney", "Z.-Y. Li", "C. Chandler",  "K. Kratter", "M. M. Dunham", "S. Sadavoy", "L. Perez", "C. Melis"],
-          "abstract": "Class 0 and I protostellar disk sizes, first look.",
+          "more_info": [
+            {
+              "text": "Related Work:",
+              "links": [
+                {
+                  "text": "First look at VANDAM candidate disks",
+                  "link": "https://ui.adsabs.harvard.edu/abs/2016ApJ...817L..14S/abstract"
+                },
+                {
+                  "text": "VANDAM II (multiplicity of protostars)",
+                  "link": "https://ui.adsabs.harvard.edu/abs/2016ApJ...818...73T/abstract"
+                },
+                {
+                  "text": "Angular momentum and Class 0 disk formation",
+                  "link": "https://ui.adsabs.harvard.edu/abs/2019ApJ...882..103P/abstract"
+                }
+              ]          
           "images": [
             "assets/images/picture_2.jpg"
           ]
