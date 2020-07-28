@@ -42,11 +42,17 @@
   },
   "research": [
     {
-      "title": "Substructures in Embedded Disks",
+      "title": "New Paper 2020",
       "papers": [
         {
           "always_expanded": true,
-          "abstract": "Lorem ipsum sunt veniam reprehenderit est ea aliquip qui do ad elit incididunt irure aliqua quis ad cupidatat do ut laborum in ea cillum sint fugiat aliqua voluptate eiusmod reprehenderit quis ut nostrud anim nisi mollit dolor excepteur ut ullamco."
+          "title": "The VLA Nascent Disk and Multiplicity Survey of Perseus Protostars (VANDAM). V. 18 Candidate Disks around Class 0 and I Protostars in the Perseus Molecular Cloud",
+          "link": "https://www.example.com/link_1",
+          "authors": ["D. M. Segura-Cox", "et al."],
+          "abstract": "Coming soon",
+          "images": [
+            "assets/images/picture_1.jpg"
+          ]
         }
       ]
     },
