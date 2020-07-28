@@ -5,7 +5,6 @@
   "tabs": [
     "home",
     "research",
-    "press",    
     "cv"
   ],
   "home": {
@@ -99,18 +98,7 @@
         }
       ]
     }
-  ], 
-  "press": [
-    {
-      "title": "Cillum dolore quis laborum aliqua",
-      "papers": [
-        {
-          "always_expanded": true,
-          "abstract": "Lorem ipsum sunt veniam reprehenderit est ea aliquip qui do ad elit incididunt irure aliqua quis ad cupidatat do ut laborum in ea cillum sint fugiat aliqua voluptate eiusmod reprehenderit quis ut nostrud anim nisi mollit dolor excepteur ut ullamco."
-        },
-      ]
-    }
-  ],   
+  ],
   "cv": {
     "link": "http://www.example.com/cv.pdf",
     "sections": [
@@ -174,6 +162,38 @@
           }
         ]
       },
+      {
+        "title": "Reprehenderit qui cupidatat",
+        "items": [
+          {
+            "date": "20XX-20XY",
+            "text": "Pariatur reprehenderit quis in eiusmod.",
+            "fields": [
+              {
+                "text": "Irure fugiat excepteur qui."
+              },
+              {
+                "text": "Duis cillum eu consequat.",
+                "highlighted": true
+              }
+            ]
+          },
+          {
+            "date": "20XX",
+            "text": "Lorem ipsum mollit incididunt excepteur ad.",
+            "fields": [
+              {
+                "text": "In amet dolor ex."
+              },
+              {
+                "text": "Magna quis elit.",
+                "type": "link",
+                "link": "http://www.example.com/additional_text_1_link"
+              }
+            ]
+          }
+        ]
+      }
     ]
   }
 }
