@@ -43,7 +43,7 @@
   },
   "research": [
     {
-      "title": "Class 0 and I Protostellar Disk Sizeszzzz",    
+      "title": "Class 0 and I Protostellar Disk Sizes",    
       "sub_title": "How large and how early can disks grow?",   
       "papers": [
         {
@@ -79,7 +79,7 @@
     },
     {
       "title": "Polarization in Embedded Disks",
-      "description": "Under what conditions do magnetic fields rule?",      
+      "sub_title": "Under what conditions do magnetic fields rule?",      
       "papers": [
         {
           "always_expanded": true,
