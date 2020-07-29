@@ -120,6 +120,11 @@
           "title": "A Growing Stellar System Directly Fed by the Mother Cloud",
           "link": "https://www.mpe.mpg.de/7478439/news20200727",
           "abstract": "New work lead by our team at the Max Planck Institute for Extraterrestrial Physics shows how large-scale molecular clouds can help protostars at much smaller size scales gain their mass and chemical makeup.",
+          "more_info": [
+            {
+              "text": "Image Credit: Jaime E. Pineda, MPE"
+            }
+          ],          
           "images": [
             "assets/images/press_photo_2.jpg"
           ]
@@ -129,6 +134,11 @@
           "title": "VLA Reveals Dramatic New Evidence About Star and Planet Formation",
           "link": "https://public.nrao.edu/news/star-and-planet-formation/",
           "abstract": "The NRAO highlights our work with very young multiple protostars and embedded disks that provide unprecedented insight into the first phases of star formation.",
+          "more_info": [
+            {
+              "text": "Image Credit: Bill Saxton, NRAO/AUI/NSF"
+            }
+          ],             
           "images": [
             "assets/images/press_photo_1a.jpg"
           ]
