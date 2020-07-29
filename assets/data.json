@@ -44,11 +44,7 @@
   "research": [
     {
       "title": "Class 0 and I Protostellar Disk Sizes",    
-      "display": {
-          "description": {
-              "How large and how early can disks grow?"
-          }
-      },      
+      "description": "How large and how early can disks grow?",   
       "papers": [
         {
           "always_expanded": true,
