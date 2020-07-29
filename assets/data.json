@@ -42,21 +42,6 @@
   },
   "research": [
     {
-      "title": "New Paper 2020",
-      "papers": [
-        {
-          "always_expanded": true,
-          "title": "In prep.",
-          "link": "https://www.example.com/link_1",
-          "authors": ["D. M. Segura-Cox", "et al."],
-          "abstract": "Coming soon",
-          "images": [
-            "assets/images/picture_3.jpg"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Class 0 and I Protostellar Disk Sizes",
       "papers": [
         {
