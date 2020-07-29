@@ -134,29 +134,54 @@
         "title": "Employment and Education",
         "items": [
           {
-            "date": "20XX-20XY",
-            "text": "Pariatur reprehenderit quis in eiusmod.",
+            "date": "2017-Present",
+            "text": "Max Planck Institute for Extraterrestrial Physics",
             "fields": [
               {
-                "text": "Irure fugiat excepteur qui."
+                "text": "Center for Astrochemical Studies (Prof. Paola Caselli)",
+                "type": "link",
+                "link": "http://www.mpe.mpg.de/CAS"
               },
               {
-                "text": "Duis cillum eu consequat.",
-                "highlighted": true
+                "text": "Postdoc"
               }
             ]
           },
           {
-            "date": "20XX",
-            "text": "Lorem ipsum mollit incididunt excepteur ad.",
+            "date": "2011-2017",
+            "text": "Ph.D. in Astronomy, University of Illinois",
             "fields": [
               {
-                "text": "In amet dolor ex."
+                "text": "Astronomy Department",
+                "type": "link",
+                "link": "https://astro.illinois.edu/"
               },
               {
-                "text": "Magna quis elit.",
+                "text": "Observations of Disks Around the Youngest Protostars: Characterizing Frequency, Dust properties, and Magnetic Fields at the Earliest Times",
+                "highlighted": true
+              },
+              {
+                "text": "Illinois Distinguished Fellow"
+              },              
+              {
+                "text": "Advisor: Prof. Leslie Looney"
+              }
+            ]
+          },          
+          {
+            "date": "2007-2011",
+            "text": "B.S. in Astrophysics and Astronomy, University of Michigan",
+            "fields": [
+              {
+                "text": "Department of Astronomy"
                 "type": "link",
-                "link": "http://www.example.com/additional_text_1_link"
+                "link": "https://lsa.umich.edu/astro"
+              },
+              {
+                "text": "Graduated with High Honors, Michigan Tradition Scholar"
+              },               
+              {
+                "text": "Advisor: Prof. Sally Oey",
               }
             ]
           }
