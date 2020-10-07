@@ -43,6 +43,41 @@
   },
   "research": [
     {
+      "title": "Rings and Gaps in a Class I Protostellar Disk",    
+      "sub_title": "How early can planet formation begin?",   
+      "papers": [
+        {
+          "always_expanded": true,
+          "title": "Four annular structures in a protostellar disk less than 500,000 years old",
+          "link": "https://www.nature.com/articles/s41586-020-2779-6",
+          "authors": ["D. M. Segura-Cox", "et al."],
+          "abstract": "We detect the youngest protostellar disk with multiple concentric rings and gaps around a Class I protostar. Older Class II sources have been detected previously with disk rings and gaps in abundance, and these features are often attributed to planet formation already well underway. Our work with the Class I protostar IRS 63 shows that the same features are already present at an evolutionary stage when the protostar will still gain significant mass from the surrounding envelope. The dust rings will act as an early foothold for dust grain growth, which is a prerequisite of planet formation. All together, this work is compelling evidence that protostars and planets grow and evolve together from very early times.",
+          "more_info": [
+            {
+              "text": "Related Work:",
+              "links": [
+                {
+                  "text": "Young disks have enough mass to make planets",
+                  "link": "https://ui.adsabs.harvard.edu/abs/2020A%26A...640A..19T/abstract"
+                },
+                {
+                  "text": "The cosmic pretzel",
+                  "link": "https://ui.adsabs.harvard.edu/abs/2019Sci...366...90A/abstract"
+                },
+                {
+                  "text": "Orbits of protostars inside a circumbinary disk",
+                  "link": "https://ui.adsabs.harvard.edu/abs/2020ApJ...897...59M/abstract"
+                }
+              ]
+            }
+          ],
+          "images": [
+            "assets/images/IRS63_Figure1.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "title": "Class 0 and I Protostellar Disk Sizes",    
       "sub_title": "How large and how early can disks grow?",   
       "papers": [
