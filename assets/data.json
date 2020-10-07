@@ -154,9 +154,24 @@
       "papers": [
         {
           "always_expanded": true,          
+          "title": "Stars and Planets Grow Up Together as Siblings",
+          "link": "https://www.mpe.mpg.de/7508431/news20201007?c=260760",
+          "abstract": "My new work, just published in Nature, shows compelling evidence that planets start to form while infant stars are still growing. My team studied IRS 63, a protostellar disk with the youngest known multiple rings and gaps with ALMA.
+          our team at the Max Planck Institute for Extraterrestrial Physics shows how large-scale molecular clouds can help protostars at much smaller size scales gain their mass and chemical makeup.",
+          "more_info": [
+            {
+              "text": "Image Credit: D. Segura-Cox, MPE"
+            }
+          ],          
+          "images": [
+            "assets/images/IRS63_SolarSystem.jpg"
+          ]
+        },
+        {
+          "always_expanded": true,          
           "title": "A Growing Stellar System Directly Fed by the Mother Cloud",
           "link": "https://www.mpe.mpg.de/7478439/news20200727",
-          "abstract": "New work lead by our team at the Max Planck Institute for Extraterrestrial Physics shows how large-scale molecular clouds can help protostars at much smaller size scales gain their mass and chemical makeup.",
+          "abstract": "Work led by our team at the Max Planck Institute for Extraterrestrial Physics shows how large-scale molecular clouds can help protostars at much smaller size scales gain their mass and chemical makeup.",
           "more_info": [
             {
               "text": "Image Credit: Jaime E. Pineda, MPE"
