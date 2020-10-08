@@ -43,7 +43,7 @@
   },
   "research": [
     {
-      "title": "Rings and Gaps in a Class I Protostellar Disk",    
+      "title": "Substructures in Young Protostellar Disks",    
       "sub_title": "How early can planet formation begin?",   
       "papers": [
         {
@@ -72,7 +72,7 @@
             }
           ],
           "images": [
-            "assets/images/IRS63_Figure1.jpg"
+            "assets/images/IRS63_Figure1_small.jpg"
           ]
         }
       ]
@@ -163,14 +163,14 @@
             }
           ],          
           "images": [
-            "assets/images/IRS63_SolarSystem.jpg"
+            "assets/images/IRS63_SolarSystem_small.jpg"
           ]
         },
         {
           "always_expanded": true,          
           "title": "A Growing Stellar System Directly Fed by the Mother Cloud",
           "link": "https://www.mpe.mpg.de/7478439/news20200727",
-          "abstract": "Work led by our team at the Max Planck Institute for Extraterrestrial Physics shows how large-scale molecular clouds can help protostars at much smaller size scales gain their mass and chemical makeup.",
+          "abstract": "Work by our team led by my collaborator at the Max Planck Institute for Extraterrestrial Physics shows how large-scale molecular clouds can help protostars at much smaller size scales gain their mass and chemical makeup.",
           "more_info": [
             {
               "text": "Image Credit: Jaime E. Pineda, MPE"
