@@ -2,7 +2,7 @@
   "color": "#0f746e",
   "header_background": "assets/images/press_photo_1.jpg",
   "google_analytics_ID": "UA-54037920-14",
-  "sub_title": "Astronomer. Postdoctoral Researcher.",
+  "sub_title": "Astronomer. NSF Postdoctoral Fellow.",
   "tabs": [
     "home",
     "research",
@@ -10,28 +10,28 @@
     "cv"
   ],
   "home": {
-    "description": "I am a postdoc working at the The Center for Astrochemical Studies of the Max Planck Institute for Extraterrestrial Physics.  I'm primarily interested in observations of the very youngest protostars.  Ultimately I seek to unite dust, kinematic, chemical, and polarization observations of embedded protostars to understand the role that young disks and their surrounding envelopes play in the first steps of star and planet formation.",
+    "description": "I am an NSF Astronomy and Astrophysics Postdoctoral Fellow working at the The University of Texas at Austin with Assoc. Prof. Stella Offner's group.  I'm primarily interested in observations of the very youngest protostars.  Ultimately I seek to unite dust, kinematic, chemical, and polarization observations of embedded protostars to understand the role that young disks and their surrounding envelopes play in the first steps of star and planet formation.",
     "highlight": "I specialize in high-resolution (sub-arcsecond) interferometric observations of nearby low-mass embedded protostars.",
     "contact": [
       {
-        "text": "Max-Planck-Institut für extraterrestrische Physik"
+        "text": "The University of Texas at Austin"
       },
       {
-        "text": "Giessenbachstrasse 1"
+        "text": "Department of Astronomy"
       },
       {
-        "text": "85748 Garching"
+        "text": "2515 Speedway, Stop C1400"
       },   
       {
-        "text": "Germany"
+        "text": "Austin, Texas 78712-1205"
       }, 
       {
         "type": "email",
-        "text": "dom@mpe.mpg.de"
+        "text": "dominique.seguracox@austin.utexas.edu"
       },
       {
         "type": "phone",
-        "text": "+49 89 300003221"
+        "text": "(512) 232-3495"
       }
     ],
     "fields": [
@@ -198,17 +198,33 @@
     }
   ],  
   "cv": {
-    "link": "https://github.com/domase/domase.github.io/raw/master/assets/Segura-Cox_CV_230421.pdf",
+    "link": "https://github.com/domase/domase.github.io/raw/master/assets/Segura-Cox_CV_080122.pdf",
     "sections": [
       {
         "title": "Employment and Education",
         "items": [
           {
-            "date": "2017-Present",
+            "date": "2021-Present",
+            "text": "NSF Astronomy and Astrophysics Postdoctoral Fellow",
+            "fields": [
+              {
+                "text": "THe University of Texas at Austin"
+              },
+              {
+                "text": "Department of Astronomy (Assoc. Prof. Stella Offner)",
+                "type": "link",
+                "link": "https://astronomy.utexas.edu/"
+              },
+              {
+                "text": "Postdoc Fellow"
+              }
+            ]
+          },          {
+            "date": "2017-2021",
             "text": "Max Planck Institute for Extraterrestrial Physics",
             "fields": [
               {
-                "text": "Center for Astrochemical Studies (Prof. Paola Caselli)",
+                "text": "Center for Astrochemical Studies (Prof. Dir. Paola Caselli)",
                 "type": "link",
                 "link": "http://www.mpe.mpg.de/CAS"
               },
