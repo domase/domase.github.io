@@ -35,10 +35,12 @@
       }
     ],
     "fields": [
-      "Star Formation",
-      "Embedded Prototstars",
-      "Disk Structures",
-      "Envelope-Disk Connection"
+      {
+        "Star Formation",
+        "Embedded Prototstars",
+        "Disk Structures",
+        "Envelope-Disk Connection"
+      }
     ],
     "disclaimer": [
       "Dominique Segura-Cox is supported by the National Science Foundation under the Astronomy and Astrophysics Postdoctoral Fellow program (award #AST-2102405).",
