@@ -6,7 +6,7 @@
   "tabs": [
     "home",
     "research",
-    "resources",
+    "outreach",
     "press",    
     "cv"
   ],
@@ -154,15 +154,10 @@
       ]
     }
   ],  
-    "resources": [
+    "outreach": [
     {
       "title": "Pooling Existing Resources and Creating New Ones",
       "papers": [
-        {
-          "always_expanded": true,          
-          "title": "Mentoring Resources",
-          "abstract": "Under development: coming 2024. I'm passionate about mentoring my junior colleages, and that includes providing them with resources that are readily available before they need them. On this page I will compile a list of links to existing resources and post materials I've developed myself."
-        },
         {
           "always_expanded": true,          
           "title": "AstroCore: Modules for High School Classrooms",
