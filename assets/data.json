@@ -233,7 +233,14 @@
                 "link": "https://astronomy.utexas.edu/"
               },
               {
-                "text": "Postdoc Fellow"
+                "text": "Independent Postdoctoral Fellow"
+              }
+            ]
+          },          {
+            "date": "2021-Present",
+            "text": "Max Planck Institute for Extraterrestrial Physics",
+            "fields": [{
+                "text": "Visiting Scientist"
               }
             ]
           },          {
@@ -246,7 +253,7 @@
                 "link": "http://www.mpe.mpg.de/CAS"
               },
               {
-                "text": "Postdoc"
+                "text": "Postdoctoral Researcher"
               }
             ]
           },
