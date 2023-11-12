@@ -6,7 +6,7 @@
   "tabs": [
     "home",
     "research",
-    "mentoring and outreach",
+    "resources",
     "press",    
     "cv"
   ],
@@ -154,7 +154,7 @@
       ]
     }
   ],  
-    "mentoring and outreach": [
+    "resources": [
     {
       "title": "Mentoring Resources",
       "papers": [
