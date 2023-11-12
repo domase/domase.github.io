@@ -2,10 +2,11 @@
   "color": "#bf5700",
   "header_background": "assets/images/press_photo_1.jpg",
   "google_analytics_ID": "UA-54037920-14",
-  "sub_title": "Astronomer. NSF Postdoctoral Fellow.",
+  "sub_title": "NSF Astronomy and Astrophysics Postdoctoral Fellow. Benevolent Space Wizard.",
   "tabs": [
     "home",
     "research",
+    "public engagement",
     "press",    
     "cv"
   ],
@@ -152,6 +153,18 @@
       ]
     }
   ],
+    "public engagement": [
+    {
+      "title": "AstroCore: Modules for High School Classrooms",
+      "papers": [
+        {
+          "always_expanded": true,          
+          "title": "Under development! Coming 2024!",
+          "abstract": "I am currently working with teachers to develop modules of worksheets, lesson plans, activities, and teachers’ notes aimed at bringing astronomy into rural classrooms. The modules will be published online for broad use by any teacher. We use astronomy themes to convey core math and science concepts required by Texas state education standards for graduation.",
+        }
+      ]
+    }
+  ],  
   "press": [
     {
       "title": "Press Releases",
@@ -202,7 +215,7 @@
     }
   ],  
   "cv": {
-    "link": "https://github.com/domase/domase.github.io/raw/master/assets/Segura-Cox_CV_270423.pdf",
+    "link": "https://github.com/domase/domase.github.io/raw/master/assets/Segura-Cox_CV_111123.pdf",
     "sections": [
       {
         "title": "Employment and Education",
