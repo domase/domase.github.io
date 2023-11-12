@@ -6,8 +6,7 @@
   "tabs": [
     "home",
     "research",
-    "mentoring",
-    "outreach",
+    "mentoring and outreach",
     "press",    
     "cv"
   ],
@@ -155,7 +154,7 @@
       ]
     }
   ],  
-    "mentoring": [
+    "mentoring and outreach": [
     {
       "title": "Mentoring Resources",
       "papers": [
@@ -165,10 +164,8 @@
           "abstract": "Under development: coming 2024. I'm passionate about mentoring my junior colleages, and that includes providing them with resources that are readily available before they need them. On this page I will compile a list of links to existing resources and post materials I've developed myself."
         }
       ]
-    }
-  ],
-    "outreach": [
-    {
+    }, 
+      {
       "title": "K-12 Education",
       "papers": [
         {
