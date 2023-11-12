@@ -6,6 +6,7 @@
   "tabs": [
     "home",
     "research",
+    "outreach",
     "press",    
     "cv"
   ],
@@ -152,6 +153,18 @@
       ]
     }
   ],  
+  "outreach": [
+    {
+      "title": "K-12 Education",
+      "papers": [
+        {
+          "always_expanded": true,          
+          "title": "AstroCore: Modules for High School Classrooms",
+          "abstract": "Under development: coming 2024. I am currently working with teachers to develop modules of worksheets, lesson plans, activities, and teachers’ notes aimed at bringing astronomy into rural classrooms. The modules will be published online for broad use by any teacher. We use astronomy themes to convey core math and science concepts required by Texas state education standards for graduation."
+        }
+      ]
+    }
+  ], 
   "press": [
     {
       "title": "Press Releases",
