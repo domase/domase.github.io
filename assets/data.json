@@ -2,7 +2,7 @@
   "color": "#00205B",
   "header_background": "assets/images/press_photo_1.jpg",
   "google_analytics_ID": "UA-54037920-14",
-  "sub_title": "NSF Astronomy and Astrophysics Postdoctoral Fellow. Benevolent Space Wizard.",
+  "sub_title": "Assistant Professor. Benevolent Space Wizard.",
   "tabs": [
     "home",
     "research",
@@ -11,7 +11,7 @@
     "cv"
   ],
   "home": {
-    "description": "I am an assistant professor at the University of Rochester Department of Physics and Astronomy.  I also hold a Visiting Scientist appointment at the Max Planck Institute for Extraterrestrial Physics. I'm primarily interested in observations of the very youngest protostars, in particular how asymmetric infall from the larger environment can influence properties of potentially planet-forming disks.  Ultimately I seek to unite dust, kinematic, chemical, and polarization observations of embedded protostars at multiple wavelengths and size scales to form a more nuanced picture of star and planet formation. I specialize in high-resolution (sub-arcsecond) interferometric observations. I also work closely with my theorist co-investigators.",
+    "description": "I am an Assistant Professor at the University of Rochester Department of Physics and Astronomy.  I also hold a Visiting Scientist appointment at the Max Planck Institute for Extraterrestrial Physics. I'm primarily interested in observations of the very youngest protostars, in particular how asymmetric infall from the larger environment can influence properties of potentially planet-forming disks.  Ultimately I seek to unite dust, kinematic, chemical, and polarization observations of embedded protostars at multiple wavelengths and size scales to form a more nuanced picture of star and planet formation. I specialize in high-resolution (sub-arcsecond) interferometric observations. I also work closely with my theorist co-investigators.",
     "highlight": "I am a leader in ground-breaking radio observations, large program management, building collaborations, mentoring, and public engagement.",
     "contact": [
       {
