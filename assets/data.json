@@ -1,5 +1,5 @@
 {
-  "color": "#bf5700",
+  "color": "#00205B",
   "header_background": "assets/images/press_photo_1.jpg",
   "google_analytics_ID": "UA-54037920-14",
   "sub_title": "NSF Astronomy and Astrophysics Postdoctoral Fellow. Benevolent Space Wizard.",
@@ -11,28 +11,31 @@
     "cv"
   ],
   "home": {
-    "description": "I am an NSF Astronomy and Astrophysics Postdoctoral Fellow working at the The University of Texas at Austin.  I also hold a Visiting Scientist appointment at the Max Planck Institute for Extraterrestrial Physics. I'm primarily interested in observations of the very youngest protostars, in particular how asymmetric infall from the larger environment can influence properties of potentially planet-forming disks.  Ultimately I seek to unite dust, kinematic, chemical, and polarization observations of embedded protostars at multiple wavelengths and size scales to form a more nuanced picture of star and planet formation. I specialize in high-resolution (sub-arcsecond) interferometric observations. I also work closely with my theorist co-investigators.",
+    "description": "I am an assistant professor at the University of Rochester Department of Physics and Astronomy.  I also hold a Visiting Scientist appointment at the Max Planck Institute for Extraterrestrial Physics. I'm primarily interested in observations of the very youngest protostars, in particular how asymmetric infall from the larger environment can influence properties of potentially planet-forming disks.  Ultimately I seek to unite dust, kinematic, chemical, and polarization observations of embedded protostars at multiple wavelengths and size scales to form a more nuanced picture of star and planet formation. I specialize in high-resolution (sub-arcsecond) interferometric observations. I also work closely with my theorist co-investigators.",
     "highlight": "I am a leader in ground-breaking radio observations, large program management, building collaborations, mentoring, and public engagement.",
     "contact": [
       {
-        "text": "The University of Texas at Austin"
+        "text": "University of Rochester"
       },
       {
-        "text": "Department of Astronomy"
+        "text": "Department of Physics and Astronomy"
       },
       {
-        "text": "2515 Speedway, Stop C1400"
+        "text": "206 Bausch and Lomb Hall"
       },   
       {
-        "text": "Austin, Texas 78712-1205"
+        "text": "P.O. Box 270171"
       }, 
       {
+        "text": "Rochester, NY 14627-0171"
+      },
+      {
         "type": "email",
-        "text": "dominique.seguracox@austin.utexas.edu"
+        "text": "d.segura-cox@rochester.edu"
       },
       {
         "type": "phone",
-        "text": "(512) 232-3495"
+        "text": "(585) 275-4344"
       }
     ],
     "fields": [
@@ -43,8 +46,7 @@
       "Early Planet Formation"
     ],
     "disclaimer": [
-      "Dominique Segura-Cox is supported by the National Science Foundation under the Astronomy and Astrophysics Postdoctoral Fellow program (award #AST-2102405).",
-      "Any opinions, findings, and conclusions or recommendations expressed in this material are those of Dominique Segura-Cox and do not necessarily reflect the views of the National Science Foundation."
+      "The views expressed on this website are mine alone and do not necessarily reflect the views of the University of Rochester."
     ]  
   },
   "research": [
@@ -222,7 +224,29 @@
         "title": "Employment and Education",
         "items": [
           {
+            "date": "2024-Present",
+            "text": "Assistant Professor",
+            "fields": [
+              {
+                "text": "University of Rochester"
+              },
+              {
+                "text": "Department of Physics and Astronomy",
+                "type": "link",
+                "link": "https://www.pas.rochester.edu/"
+              }
+            ]
+          },
+          {
             "date": "2021-Present",
+            "text": "Max Planck Institute for Extraterrestrial Physics",
+            "fields": [{
+                "text": "Visiting Scientist"
+              }
+            ]
+          },
+          {
+            "date": "2021-2024",
             "text": "NSF Astronomy and Astrophysics Postdoctoral Fellow",
             "fields": [
               {
@@ -237,14 +261,8 @@
                 "text": "Independent Postdoctoral Fellow"
               }
             ]
-          },          {
-            "date": "2021-Present",
-            "text": "Max Planck Institute for Extraterrestrial Physics",
-            "fields": [{
-                "text": "Visiting Scientist"
-              }
-            ]
-          },          {
+          },
+          {
             "date": "2017-2021",
             "text": "Max Planck Institute for Extraterrestrial Physics",
             "fields": [
