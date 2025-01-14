@@ -11,8 +11,8 @@
     "cv"
   ],
   "home": {
-    "description": "I am an Assistant Professor at the University of Rochester Department of Physics and Astronomy.  I also hold a Visiting Scientist appointment at the Max Planck Institute for Extraterrestrial Physics. I'm primarily interested in observations of the very youngest protostars, in particular how asymmetric infall from the larger environment can influence properties of potentially planet-forming disks.  Ultimately I seek to unite dust, kinematic, chemical, and polarization observations of embedded protostars at multiple wavelengths and size scales to form a more nuanced picture of star and planet formation. I specialize in high-resolution (sub-arcsecond) interferometric observations. I also work closely with my theorist co-investigators.",
-    "highlight": "I am a leader in ground-breaking radio observations, large program management, building collaborations, mentoring, and public engagement.",
+    "description": "I'm an Assistant Professor at the University of Rochester Department of Physics and Astronomy.  I also hold a Visiting Scientist appointment at the Max Planck Institute for Extraterrestrial Physics. I'm primarily interested in observations of the very youngest protostars, in particular how asymmetric infall from the larger environment can influence properties of potentially planet-forming disks.  Ultimately I seek to unite dust, kinematic, chemical, and polarization observations of embedded protostars at multiple wavelengths and size scales to form a more nuanced picture of star and planet formation. I specialize in high-resolution (sub-arcsecond) interferometric observations. I also work closely with my theorist co-investigators.",
+    "highlight": "I am currently most interested in studying streamers, particularly via my <a href='https://noema-prodige.github.io/'>NOEMA PRODIGE Large Program</a>.",
     "contact": [
       {
         "text": "University of Rochester"
@@ -32,10 +32,6 @@
       {
         "type": "email",
         "text": "d.segura-cox@rochester.edu"
-      },
-      {
-        "type": "phone",
-        "text": "(585) 275-4344"
       }
     ],
     "fields": [
@@ -50,6 +46,41 @@
     ]  
   },
   "research": [
+       {
+      "title": "Streamers Feed Disks on the Verge of Planet Formation",    
+      "sub_title": "How do streamers change young planet-forming disks?",   
+      "papers": [
+        {
+          "always_expanded": true,
+          "title": "PRODIGE: A NOEMA Large Program",
+          "link": "https://noema-prodige.github.io/",
+          "authors": ["The First Large Observing Campaign Designed to Search for Streamers"],
+          "abstract": "Streamers are long and skinny structures made of gas and dust.  They infall from large core and envelope scales and feed protostellar disks in the youngest phases of star formation. My collaborators, in particular the PRODIGE team, and I have made great efforts in characterizing the streamers' mass infall rates, how often they occur, chemical composition, shocks at the disk impact zone, and structural changes within the disk at planet forming scales that arise from infalling streamers. Although previously overlooked, due to recent upgrades in radio interferometer technology, streamers are now commonly found both in low and high-mass star forming regions.",
+          "more_info": [
+            {
+              "text": "Related Work:",
+              "links": [
+                {
+                  "text": "The first PRODIGE streamer",
+                  "link": "https://ui.adsabs.harvard.edu/abs/2022A%26A...667A..12V/abstract"
+                },
+                {
+                  "text": "Enhanced deuteration due to streamer",
+                  "link": "https://ui.adsabs.harvard.edu/abs/2024A%26A...688L..22P/abstract"
+                },
+                {
+                  "text": "Streamer originates from beyond the dense core",
+                  "link": "https://ui.adsabs.harvard.edu/abs/2020NatAs...4.1158P/abstract"
+                }
+              ]
+            }
+          ],
+          "images": [
+            "assets/images/valdivia-mena_streamer.jpg"
+          ]
+        }
+      ]
+    }, 
     {
       "title": "Substructures in Young Protostellar Disks",    
       "sub_title": "How early can planet formation begin?",   
@@ -218,7 +249,7 @@
     }
   ],  
   "cv": {
-    "link": "https://github.com/domase/domase.github.io/raw/master/assets/Segura-Cox_CV_111123.pdf",
+    "link": "https://github.com/domase/domase.github.io/raw/master/assets/Segura-Cox_CV_130125.pdf",
     "sections": [
       {
         "title": "Employment and Education",
